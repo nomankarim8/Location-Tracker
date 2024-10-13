@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+ENV/
+env/
+venv/
+*.envrc
+*.egg-info/
+dist/
+build/
+
+# Docker
+*.log
+*.tmp
+docker-compose.yml
+docker-compose.override.yml
+.env
+.env.*
+
+# Go
+/bin/
+/pkg/
+/out/
+*.exe
+*.out
+*.test
+*.mod
+*.sum
+vendor/
+
+# Node.js (if you have any Node.js dependencies)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS specific
+.DS_Store
+
+# Linux specific
+*.swp
+*~
+
+# Shell
+*.sh~
+*.bashrc
+
+# Logs
+*.log
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# GitHub specific
+.github/

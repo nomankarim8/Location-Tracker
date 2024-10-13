@@ -29,7 +29,9 @@ This project is a simple location tracking service that retrieves location data 
 
 ## Getting Started
 
+![logo](ca699dff-6188-4560-adff-e857a0a886b7.webp)
 ### Prerequisites
+
 
 Ensure you have the following installed:
 
