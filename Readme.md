@@ -38,7 +38,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/location-tracker.git
+git clone https://github.com/nomankarim8/Location-Tracker
 cd location-tracker
 ```
 
