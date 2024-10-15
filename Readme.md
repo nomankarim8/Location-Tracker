@@ -27,6 +27,7 @@ This project is a simple location tracking service that retrieves location data 
 - **Docker**: Containerizes the app for easy setup and deployment.
 - **Shell Script**: Automates the Docker build and run process.
 
+
 ## Getting Started
 
 ![logo](ca699dff-6188-4560-adff-e857a0a886b7.webp)
