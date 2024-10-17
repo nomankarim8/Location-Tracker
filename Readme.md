@@ -47,7 +47,6 @@ git clone https://github.com/nomankarim8/Location-Tracker
 cd location-tracker
 ```
 
-
 ### Build and Run with Docker
 
 1. Make the shell script executable:
