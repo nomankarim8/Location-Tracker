@@ -1,10 +1,5 @@
 #!/bin/bash
 
-
-
-
-
-
 # build.sh
 
 # Build the Docker image
