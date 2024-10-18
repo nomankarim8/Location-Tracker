@@ -15,6 +15,7 @@ dist/
 build/
 
 # Docker
+
 *.log
 *.tmp
 docker-compose.yml
