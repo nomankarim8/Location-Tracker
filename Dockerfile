@@ -1,7 +1,6 @@
 # Dockerfile
 
 # Stage 1: Python environment for location.py
-
 FROM python:3.9-slim as python-stage
 WORKDIR /app
 COPY location.py /app/location.py
