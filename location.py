@@ -6,6 +6,7 @@ def get_location():
     if response.status_code == 200:
         data = response.json()
         return {
+            
             'ip': data.get('ip'),
             'city': data.get('city'),
             'region': data.get('region'),
