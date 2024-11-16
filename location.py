@@ -1,6 +1,5 @@
 # location.py
 import requests
-
 def get_location():
     response = requests.get('https://ipinfo.io')
     if response.status_code == 200:
