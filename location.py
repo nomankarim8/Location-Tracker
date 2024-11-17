@@ -12,7 +12,6 @@ def get_location():
             'country': data.get('country'),
             'loc': data.get('loc')
         }
-        
     else:
         return {'error': 'Unable to get location'}
 
