@@ -13,6 +13,7 @@ def get_location():
             'loc': data.get('loc')
         }
     else:
+        
         return {'error': 'Unable to get location'}
 
 if __name__ == "__main__":
