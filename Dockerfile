@@ -21,7 +21,6 @@ RUN pip install requests
 
 
 
-
 # Stage 2: Go environment for the Go server
 FROM golang:1.19 as go-stage
 WORKDIR /app
