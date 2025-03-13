@@ -1,6 +1,5 @@
 import requests
 
-
 app_id = 'your_app_id'
 app_secret = 'your_app_secret'
 
