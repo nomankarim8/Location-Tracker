@@ -4,6 +4,7 @@
 
 # Build the Docker image
 
+
 docker build -t location-tracker .
 
 # Run the Docker container
