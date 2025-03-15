@@ -6,6 +6,7 @@
 
 
 
+
 docker build -t location-tracker .
 
 
